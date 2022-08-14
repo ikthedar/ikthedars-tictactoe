@@ -42,6 +42,7 @@ def play_game():
         print("Tie.")
 
 
+# turn of the player
 def handle_turn(player):
 
     print(player + "'s turn.")
