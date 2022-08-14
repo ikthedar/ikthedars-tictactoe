@@ -15,7 +15,7 @@ winner = None
 # Whose turn is it
 current_player = "X"
 
-
+# set up the board
 def display_board():
     print(board[0] + " | " + board[1] + " | " + board[2])
     print(board[3] + " | " + board[4] + " | " + board[5])
